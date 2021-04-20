@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="livraria_online/src"/>
+	<classpathentry kind="src" path="livraria_online/test"/>
+	<classpathentry kind="lib" path="__MACOSX/livraria_online/lib/._hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/livraria_online/lib/._javax.annotation-api-1.3.2.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/livraria_online/lib/._junit-4.12.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/livraria_online/lib/._mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/livraria_online/lib/._moneta-1.1.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/livraria_online/lib/._money-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="livraria_online/lib/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="livraria_online/lib/javax.annotation-api-1.3.2.jar"/>
+	<classpathentry kind="lib" path="livraria_online/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="livraria_online/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="livraria_online/lib/moneta-1.1.jar"/>
+	<classpathentry kind="lib" path="livraria_online/lib/money-api-1.0.1.jar"/>
+	<classpathentry kind="output" path="livraria_online/bin"/>
+</classpath>
